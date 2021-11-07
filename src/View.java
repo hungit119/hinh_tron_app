@@ -188,7 +188,6 @@ public class View extends JFrame {
 				txtTen.setText("");
 				txtMau.setText("");
 				txtr.setText("");
-				txtHienThiDienTich.setText("");
 			}
 		}
 		
